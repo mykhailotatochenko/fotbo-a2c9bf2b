@@ -1,0 +1,134 @@
+{
+  "categories": [
+    { "id": "1", "name": "Antipasti", "description": "Traditional Italian starters to awaken the palate" },
+    { "id": "2", "name": "Pasta", "description": "House-made pasta crafted fresh daily" },
+    { "id": "3", "name": "Pizza", "description": "Wood-fired pizzas with authentic Neapolitan crust" },
+    { "id": "4", "name": "Secondi", "description": "Hearty main courses of meat and fish" },
+    { "id": "5", "name": "Dolci", "description": "Classic Italian desserts and pastries" },
+    { "id": "6", "name": "Vini", "description": "Curated Italian wines by the glass or bottle" }
+  ],
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Bruschetta al Pomodoro",
+      "description": "Toasted house-made ciabatta topped with vine-ripened San Marzano tomatoes, fresh basil, extra virgin olive oil, and a touch of aged balsamic.",
+      "price": 12,
+      "categoryId": "1",
+      "imageUrl": "https://live.staticflickr.com/65535/51409280995_4e444b7dda_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 661
+    },
+    {
+      "id": "2",
+      "name": "Calamari Fritti",
+      "description": "Lightly battered squid rings fried to golden perfection, served with lemon aioli and a sprinkle of smoked paprika.",
+      "price": 15,
+      "categoryId": "1",
+      "imageUrl": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTA0MjczLWltYWdlLWt3eXI2aDNwLWt3eXQ5djh5LmpwZw.jpg",
+      "imageWidth": 4052,
+      "imageHeight": 2504
+    },
+    {
+      "id": "3",
+      "name": "Tagliatelle al Tartufo",
+      "description": "Silky egg tagliatelle tossed in a velvety cream sauce with black truffle shavings and Parmigiano-Reggiano.",
+      "price": 22,
+      "categoryId": "2",
+      "imageUrl": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvYTAxOS1qYWt1YmstMDc1MC1tYWtpbmctZnJlc2gtaG9tZW1hZGUtcGFzdGEuanBn.jpg",
+      "imageWidth": 6000,
+      "imageHeight": 4000
+    },
+    {
+      "id": "4",
+      "name": "Spaghetti alla Carbonara",
+      "description": "A Roman classic — guanciale, egg yolk, Pecorino Romano, and black pepper. No cream, no shortcuts.",
+      "price": 19,
+      "categoryId": "2",
+      "imageUrl": "https://live.staticflickr.com/65535/49238028748_9435b37944_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 683
+    },
+    {
+      "id": "5",
+      "name": "Lasagna alla Bolognese",
+      "description": "Layers of fresh pasta sheets, slow-simmered ragù, béchamel, and melted Parmigiano, baked until bubbling.",
+      "price": 20,
+      "categoryId": "2",
+      "imageUrl": "https://live.staticflickr.com/784/40910468072_dcc9d51985_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 764
+    },
+    {
+      "id": "6",
+      "name": "Pizza Margherita D.O.C.",
+      "description": "San Marzano tomato sauce, fior di latte mozzarella, fresh basil, and extra virgin olive oil on a charred Neapolitan crust.",
+      "price": 16,
+      "categoryId": "3",
+      "imageUrl": "https://live.staticflickr.com/65535/55252067993_53dabc563c_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 768
+    },
+    {
+      "id": "7",
+      "name": "Pizza Diavola",
+      "description": "Spicy 'nduja sausage, mozzarella, roasted red peppers, and a drizzle of hot honey on a thin, crispy crust.",
+      "price": 18,
+      "categoryId": "3",
+      "imageUrl": "https://live.staticflickr.com/65535/55252067998_b32491cb5c_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 768
+    },
+    {
+      "id": "8",
+      "name": "Bistecca alla Fiorentina",
+      "description": "32oz prime T-bone steak grilled over charcoal, finished with flaky sea salt, rosemary, and a squeeze of lemon.",
+      "price": 45,
+      "categoryId": "4",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Duck_meat_dish_Italian_food.jpg",
+      "imageWidth": 3780,
+      "imageHeight": 2324
+    },
+    {
+      "id": "9",
+      "name": "Branzino al Forno",
+      "description": "Whole Mediterranean sea bass baked in a salt crust with fennel, cherry tomatoes, and Kalamata olives.",
+      "price": 28,
+      "categoryId": "4",
+      "imageUrl": "https://live.staticflickr.com/46/180234857_4829e49b15_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 768
+    },
+    {
+      "id": "10",
+      "name": "Tiramisù Classico",
+      "description": "Espresso-soaked ladyfingers layered with mascarpone cream, finished with a dusting of Valrhona cocoa.",
+      "price": 12,
+      "categoryId": "5",
+      "imageUrl": "https://pd.w.org/2022/09/514632a8d03222554.67030706-2048x1536.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1536
+    },
+    {
+      "id": "11",
+      "name": "Panna Cotta al Caramello",
+      "description": "Silky vanilla panna cotta topped with a salted caramel sauce and toasted hazelnuts.",
+      "price": 11,
+      "categoryId": "5",
+      "imageUrl": "https://live.staticflickr.com/3789/11074920145_34cf45d6e0_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 683
+    },
+    {
+      "id": "12",
+      "name": "Barolo DOCG 2019",
+      "description": "Nebbiolo from the Piedmont region — bold tannins with notes of cherry, rose, and truffle. 750ml.",
+      "price": 14,
+      "categoryId": "6",
+      "imageUrl": "https://live.staticflickr.com/8543/8647725243_248fc89d30_b.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 678
+    }
+  ],
+  "orders": [],
+  "contacts": []
+}
